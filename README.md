@@ -2,7 +2,7 @@ JavaSpektrum: Beispielprojekt für das Mock-basierte Testen von Microservices.
 
 ## Hinweis für Leser des JavaSpektrums
 Dieses Repository enthält den Code des im Rahmen des Artikels "Über das Testen von Microservices" entwickelte 
-Beispiels. Diese Code wurde in den letzten Wochen massgeblich weiterentwickelt und als eigenständiges
+Beispiels. Dieser Code wurde in den letzten Wochen massgeblich weiterentwickelt und als eigenständiges
 Projekt veröffentlicht: 
 
 https://github.com/rwirdemann/mockwizard.
